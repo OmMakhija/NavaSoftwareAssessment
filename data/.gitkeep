@@ -1,0 +1,2 @@
+# Place your PDF files in this folder.
+# They will be loaded by the RAG pipeline when indexed via the UI.
